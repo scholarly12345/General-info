@@ -101,7 +101,7 @@ Exponential to numbers, logarithmic, log, linear
 Ledger
 Polygon MATIC,
 Crypto games,
-Evolution based games,
+* Evolution based games,
 Healing chronic things
 Assembly language
 LaTeX text editor

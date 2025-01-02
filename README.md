@@ -122,3 +122,10 @@ Structure of mathematics, operators from there computation, encapsulation
 Sharing encapsulated information, libraries
 
 2/1/2025
+Real world
+Augmented reality
+Virtual reality
+
+Film reel
+
+

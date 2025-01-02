@@ -61,7 +61,7 @@ Sharing encapsulated information, libraries
 
 Math, modern weapons are similar to trident
 
-1/1/2024
+1/1/2025
 Fate series
 Change of perspective
 Place
@@ -74,7 +74,7 @@ Zodiac, models, computers, artistic expression from medieval ages, Window of chr
 Waves
 Pisces, symbol
 
-1/1/2024
+1/1/2025
 Mathematical physics, 
 Topics axioms and based on that problems with solutions
 Connecting the dots
@@ -109,14 +109,16 @@ Assembly language
 LaTeX text editor
 The progress of protagonists in a light novel seem to be of an exponential nature rather than a liner progression
 
-2/1/2024
+2/1/2025
 Image to PDF
 Current electricity, higher energetic state, not inverted, internet
 
-2/1/2024
+2/1/2025
 Virtual image in refraction, movies and games
 Microscopes represent the mirror world of microorganisms, and so it is only logical that in a virtual setting such as in a game, we get different depictions and representations of them
 
 Structure of mathematics, operators from there computation, encapsulation
 
 Sharing encapsulated information, libraries
+
+2/1/2025

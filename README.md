@@ -103,6 +103,7 @@ Polygon MATIC,
 Crypto games,
 * Evolution based games,
 Evolution of gaming stations, evolution of gaming equipment, which includes led monitors from crt, led stands for light emitting diode is capable of emitting a wide range of frequencies its  brightness can be altered is used in digital systems
+Modes, modes in which a player plays as a creature and another one in which the player can play as a human and associated with it is difficulty level, games can be played in hell difficulty level, helios
 Healing chronic things
 Assembly language
 LaTeX text editor

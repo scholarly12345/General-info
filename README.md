@@ -143,3 +143,22 @@ ScFi, moon, manga
 Related novels
 Lightnovels, Webnovels
 Rank
+
+3/1/2025
+Speculations
+From the macro to the micro
+Underlying structure of the universe, multiverse
+When we see models of the solar system, which perspectivs are we speaking from, from an observational point of view, from a hypothetical point of view
+Since interactions are taking pkace then this implies that at some level, the underlying structure has to  have a common basis
+Then there's the zodiac
+And all of these information about astrology
+The hindu religion speaks of brahman, a metaphysical principle
+And then there's the Internet
+Upload and download of information
+However for that, what needs to be downloaded or uploaded has to be defined properly
+In movies we generally see a war between good and the twisted evil, who are working for some type of master
+The evil have their own scripts to read, and there are indications that it is based on up  to date information
+If someone is asking for a boon then it has to be defined peoperly
+Using people as puppets, and on the other side of it, we see a variation of this
+Video games
+Microsoft cortana, sending info

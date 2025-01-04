@@ -270,3 +270,6 @@ What happened before, dark age
 Science
 Accelerated expanse of the universe,
 Everythig might be present in the real world in various degrees, first trying to not reinvent the wheel, idetify what is already present,
+
+5/1/2025
+Whispers in the dark, clubs, random, messaging apps, in the desktop version voice function is mosyly optional, unlike android version, discord, announcements, discord bot which takes screenshots of all the tabs in the browser and generates content based upon it and sends it to ChatGPT for further processing

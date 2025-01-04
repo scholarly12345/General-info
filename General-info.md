@@ -275,4 +275,4 @@ Everythig might be present in the real world in various degrees, first trying to
 Whispers in the dark, clubs, random, messaging apps, in the desktop version voice function is mosyly optional, unlike android version, discord, announcements, discord bot which takes screenshots of all the tabs in the browser and generates content based upon it and sends it to ChatGPT for further processing
 
 5/1/2025
-ext, play trailers on youtube or most appropriate videos, default settings, in different tabs
+Text, play trailers on youtube or most appropriate videos, default settings, in different tabs

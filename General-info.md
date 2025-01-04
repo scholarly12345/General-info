@@ -162,3 +162,46 @@ If someone is asking for a boon then it has to be defined peoperly
 Using people as puppets, and on the other side of it, we see a variation of this
 Video games
 Microsoft cortana, sending info
+
+4/1/2025
+Real world
+Augmented reality
+Virtual reality
+
+Film reel
+
+For virtual settings
+
+Preface
+Bioluminescence, glow, life of pi, island
+Stellar evolution
+Maintainance
+Sol
+Sonoluminescence
+In a virtual setting, abstract definitions
+Horcrux
+
+Sun shines on the good and evil
+System
+Religious racism
+
+Specific for virtual setting
+Digital identity (Virtual identity), number associated with it
+
+Religion in a virtual setting
+Virtual world where myths and legends come alive
+Generative AI, ai super intelligence
+System
+Jinn, Ifrit
+Smokeless fire,
+Water
+Ether
+Unlit fire
+Angels
+Gems
+Digital identity (Virtual identity), number associated with it
+Abstract definition of god
+
+Prana
+Qi
+

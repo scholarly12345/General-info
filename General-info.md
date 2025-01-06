@@ -276,3 +276,13 @@ Whispers in the dark, clubs, random, messaging apps, in the desktop version voic
 
 5/1/2025
 Text, play trailers on youtube or most appropriate videos, default settings, in different tabs
+
+6/1/2025
+In religion people have adam and in science
+
+Atom
+Californium
+Quality :
+"Californium is a radioactive metal. Uses. Californium is a very strong neutron emitter. It is used in portable metal detectors, for identifying gold and silver ores, to identify water and oil layers in oil wells and to detect metal fatigue and stress in aeroplanes."
+Ref : https://www.rsc.org/periodic-table/element/98/californium#:~:text=Californium%20is%20a%20radioactive%20metal,fatigue%20and%20stress%20in%20aeroplanes.
+

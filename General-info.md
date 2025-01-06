@@ -286,3 +286,7 @@ Quality :
 "Californium is a radioactive metal. Uses. Californium is a very strong neutron emitter. It is used in portable metal detectors, for identifying gold and silver ores, to identify water and oil layers in oil wells and to detect metal fatigue and stress in aeroplanes."
 Ref : https://www.rsc.org/periodic-table/element/98/californium#:~:text=Californium%20is%20a%20radioactive%20metal,fatigue%20and%20stress%20in%20aeroplanes.
 
+7/1/2025
+Upto date information on medicine is required
+Evolution
+Games
